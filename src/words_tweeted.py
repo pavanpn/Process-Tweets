@@ -2,7 +2,6 @@
 #-*- coding: ascii -*-
 # example of program that calculates the total number of times each word has been tweeted.
 import sys
-import numpy as np
 
 # global dictionary
 word_dict = dict()

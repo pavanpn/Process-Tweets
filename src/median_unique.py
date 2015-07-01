@@ -3,8 +3,6 @@
 # example of program that calculates the median number of unique words per tweet.
 
 import sys
-import numpy as np
-import heapq
 from mediantracker import MedianTracker
 
 # function to print dictionary
