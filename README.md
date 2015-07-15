@@ -6,11 +6,13 @@ Submission by: Pavan Kumar Pavagada Nagaraja
 The two features given as a part of the coding challenege has been implemeted in Python. Please note that Feature #2 implementation uses 'Median Tracker' Python package to compute the running median.
 
 ## Usage Instructions
-1. Install the Median Tracker package
+- Install the Median Tracker package
 ```
     sudo python -m pip install MedianTracker
 ```
-2. Run the shell script 'run.sh'
+- Add 'tweets.txt' file to 'tweet_input' folder. 
+- Run the shell script 'run.sh'.
+- Output files will be written to the 'tweet_output' folder.
 
 ## Output of the 'tree' command:
     .
